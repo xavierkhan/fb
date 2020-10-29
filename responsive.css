@@ -1,0 +1,119 @@
+ @media(max-width: 1249px){
+ 	.left-area{
+	margin-top: 2px;
+	padding-top: 20px;
+	height: 200px;
+	width: 100%;
+  }
+ 	.right-area{
+ 		width: 375px;
+ 		margin-top: 0;
+ 		margin-right: 100%;
+ 		margin-bottom: 10px;
+ 	}
+
+ 	#bus{
+ 		float: none;
+ 		margin-left: 10px;
+
+ 	}
+ 	.footer{
+ 		padding-right: 40px;
+
+ 	}
+ 	.left-area .img{
+	width: 320px;
+	margin-top: 0 ;
+
+	}
+	.sign-up{
+		overflow: hidden;
+	}
+ 	
+}
+@media (max-width: 768px){
+	.left-area{
+		margin-bottom: 50px;
+	}
+}
+@media (max-width: 650px){
+	.sign-up{
+		padding:0 48px;		
+	}
+}
+@media (max-width: 480px){
+	.left-area{
+		margin-bottom: 0;
+	}
+	.sign-up{
+		padding-left: 30px;		
+	}
+	.right-area{
+		margin-top: 80px;
+		width: 326px;
+	}
+	.right-area form .k{
+		width: 265px;	
+	}
+	.footer{
+		padding-left: 5px;
+	}
+	div span {
+		margin: 50px;
+	}
+	.right-area form input[type="text"],
+	.right-area form input[type="password"],
+	.right-area form input[type="submit"]{
+	width: 327px;
+ 	}
+}
+@media (max-width: 400px){
+.left-area p {
+    font-size: 24px;
+    
+ }
+.right-area {  
+    margin-top: 50px;
+    width: 268px;
+ }
+ .right-area form input[type="text"], 
+ .right-area form input[type="password"], 
+ .right-area form input[type="submit"] {
+    width: 270px;
+ }
+ .right-area form .k{
+	width: 210px;
+ }
+}
+@media (max-width: 345px){
+.right-area {
+    width: 220px;
+ }
+
+.left-area{
+	padding-top: 0;
+	margin-bottom: 20px;
+ }
+ .right-area form input[type="text"], 
+ .right-area form input[type="password"], 
+ .right-area form input[type="submit"]{
+ 	width: 220px;
+ }
+  .right-area form .k{
+	width: 165px;
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
